@@ -4,6 +4,6 @@ deploy:
   provider: heroku
   api_key: 
     secure: hcLvXJHY/AN3k6pXPyYUTusrqDSEZjkt9XQZCJg7ca9NCYv1/HfTUwR7QoGpZZ9oLJYIbr4Q6nXJ85bK5UcARrVPjLF644ZW95mZIivaPJP4P8Vd6DrLs0PW8ZHHKVjZMrydajKMtdl2y0DX+fGGn/ZsNDyImvw4M9/iG9NHKff7Z1JhycDwO0977/HpqxImM8yvAHQtnhpfAkrDSdCyUYZ5sH71duKni4GyrWU3dPr4U/cd5Sq69HAQqsrbfqO+LBNlgX3U/nnIXtrQeqhdV00fkUV39s0Ao6HW5trklOAj8hfDxpYEyZ1hiTa4hK5oFuT0S41adb6Gw2s64mP7hQCqfbOMiSthcE63r8XMBLCBgND3CjNCHnlett09JKDQUg9LdEoclrHf76uk2hhVU0tbGMO8N85qKuUHP8HntmSdE/epbfz+YBsd35RX+kdYfnNdxquOf4zdNa8+aZNGHhD9PbQW3iuEArs1qBCaecgWxzsYOaB0djGGdoRBNPOLMxd7lkI/AvSFHerQI/zf12HVP46tMf2DsnKUjAYTgKRspiQN5TlH+JIxjzBBYd5/RBUF3wCtE8JaVrYc9G7rEnkgbiDkyjsJ4PHLanr2f4iZAp65vAcus4rtI2PPXFK1uRyizFuPzO4o6IiPJpfV7p98KcErtt9H2WE/rb4wvW4=
-  app: node-shopping-list-integration-tests
-  on: salty-basin-90714
+  app: salty-basin-90714
+  on: 
     repo: jkathan/node-shopping-list-integration-tests
