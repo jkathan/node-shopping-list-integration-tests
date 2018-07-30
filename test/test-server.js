@@ -1,4 +1,5 @@
-const chai = require("chai");
+
+  // test strategy:const chai = require("chai");
 const chaiHttp = require("chai-http");
 
 const { app, runServer, closeServer } = require("../server");
@@ -32,7 +33,6 @@ describe("Shopping List", function() {
     return closeServer();
   });
 
-  // test strategy:
   //   1. make request to `/shopping-list`
   //   2. inspect response object and prove has right code and have
   //   right keys in response object.
